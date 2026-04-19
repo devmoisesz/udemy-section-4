@@ -3,3 +3,4 @@
 ## Functions JavaScript (avanced)
 - Callback Functions
 - Factory Functions
+- Calculator with construction function
